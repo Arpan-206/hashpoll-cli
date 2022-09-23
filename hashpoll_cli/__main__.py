@@ -97,6 +97,7 @@ def results(poll_id: str):
     res = get_responses_help(poll_id)
     print("[cyan]Getting results...")
     print(f"[cyan]Question: {res['question']}")
+    print(f"[cyan]No. of responses: {res['responses']}")
     progress = Progress("[progress.description]{task.description}",BarColumn(), "[progress.percentage]{task.percentage:>3.0f}%")
     if res:
         print(f"[blue]Results for poll with ID: {res['id']}")
