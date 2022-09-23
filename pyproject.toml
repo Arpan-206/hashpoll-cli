@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "hashpoll-cli"
-version = "0.1.2"
+version = "0.1.3"
 description = "A handy CLI tool for creating polls for Hashnode. Made with ❤️ by @hashpoll."
 authors = ["Arpan Pandey <arpan@hackersreboot.tech>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/Arpan-206/hahspoll-front"
+repository = "https://github.com/Arpan-206/hashpoll-cli"
 keywords = ["tools", "polls", "hashnode", "cli", "amplify"]
 
 [tool.poetry.scripts]
