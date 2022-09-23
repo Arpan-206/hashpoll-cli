@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "hashpoll-cli"
+version = "0.1.0"
+description = "A handy CLI tool for creating polls for Hashnode. Made with ❤️ by @hashpoll."
+authors = ["Arpan Pandey <arpan@hackersreboot.tech>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Arpan-206/hahspoll-front"
+keywords = ["tools", "polls", "hashnode", "cli", "amplify"]
+
+[tool.poetry.scripts]
+hashpoll = 'hashpoll_cli.__main__:app'
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.1"
+typer = {extras = ["all"], version = "^0.6.1"}
+rich = "^12.5.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
