@@ -14,6 +14,9 @@ Install hashpoll-cli with pip
   pip install hashpoll-cli
 ```
     
+# Hashnode Widgets
+
+You can learn how to use hashnode widget over [here](https://townhall.hashnode.com/hashnode-widgets).
 ## Commands
 
 ### Create
