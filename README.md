@@ -117,6 +117,8 @@ python -m hashpoll code [Poll ID]
 - Seamless
 - Easy-to-integrate
 
+<a href="https://www.producthunt.com/posts/hashpoll?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hashpoll" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=360853&theme=dark" alt="Hashpoll - A&#0032;tool&#0032;to&#0032;create&#0032;fun&#0045;little&#0032;polls&#0032;for&#0032;Hashnode&#0032;and&#0032;beyond&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 
 ## Authors
 
